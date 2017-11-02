@@ -9,3 +9,10 @@ ________________________________________________________________________
 Datei: Loese_Gls.xls
 
 Löst Gleichungssystem in Tabellenkalkulation über quadratische Matrix.
+
+________________________________________________________________________
+
+Online-Demo:
+
+http://www.webcalc.somee.com/
+
